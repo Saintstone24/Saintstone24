@@ -4,7 +4,7 @@
 
 - Recently graduated in Computer and System engineering (Bachelor Level) in Sapienza, University of Rome
 - Contributed in the making of `NsOranEnv`, a gymnasium-compliant environment for 5G O-RAN simulations ([details](https://ieeexplore.ieee.org/document/10619796))
-- I am fluent in both English (CEFR level C1, as of October 2024) and Italian, which is my mother tongue. I would like to improve and regain my knowledge of German, which I used to speak decently. I can also understand basic written Spanish, although not reliably.
+- I am fluent in both English (CEFR level C1, as of October 2024) and Italian, which is my mother tongue. I am also practicing German in my day to day life in Switzerland.
 
 ## About Me 📝
 
